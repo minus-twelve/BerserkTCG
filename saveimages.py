@@ -1,7 +1,7 @@
 import urllib.request
 
 i=1
-while i<102:
+while i<31:
     a=i
     url = "https://www.laststicker.ru/i/cards/51/"+str(a)+".jpg"
     r = urllib.request.urlopen(url)
