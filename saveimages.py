@@ -1,5 +1,7 @@
 from urllib.request import Request, urlopen
 
+#102 /50/
+
 i=1
 while i<31:
     a=i
